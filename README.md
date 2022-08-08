@@ -2,7 +2,7 @@
 
 Atualmente sou Mobile Developer Analyst na empresa [Autbank - Projetos e Consultoria Ltda](https://www.linkedin.com/company/autbank---projetos-e-consultoria-ltda/about/), utilizando as tecnologias <strong>Typescript + React Native</strong>, mas também atuo com <strong>Kotlin + Spring</strong>. 
 
-Aluno na Faculdade de Tecnologia da Zona Leste, previsão de formação: <strong>segundo semestre de 2020</strong>
+Formado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia da Zona Leste(FATEC ZL), <strong>segundo semestre de 2020</strong>
 
 <strong>NodeJS </strong>|<strong> Typescript </strong>|<strong> React </strong>|<strong> React Native </strong>|<strong> NestJS </strong>|<strong> Kotlin </strong>|<strong> Spring</strong> 
 
