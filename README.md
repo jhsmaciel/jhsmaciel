@@ -1,6 +1,6 @@
 ### Hey guy, seja bem vindo ao meu GitHub! 👋 👽 🤙                                          
 
-Sotware Engineer at [Nubank](https://nubank.com.br/). 
+Sotware Engineer @[Nubank](https://nubank.com.br/). 
 
 Formado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia da Zona Leste(FATEC ZL), <strong>segundo semestre de 2020</strong>
 
