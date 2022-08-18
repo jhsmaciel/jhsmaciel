@@ -1,6 +1,6 @@
 ### Hey guy, seja bem vindo ao meu GitHub! 👋 👽 🤙                                          
 
-Atualmente sou Mobile Developer Analyst na empresa [Autbank - Projetos e Consultoria Ltda](https://www.linkedin.com/company/autbank---projetos-e-consultoria-ltda/about/), utilizando as tecnologias <strong>Typescript + React Native</strong>, mas também atuo com <strong>Kotlin + Spring</strong>. 
+Sotware Engineer at [Nubank](https://nubank.com.br/). 
 
 Formado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia da Zona Leste(FATEC ZL), <strong>segundo semestre de 2020</strong>
 
