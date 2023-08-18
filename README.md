@@ -1,5 +1,7 @@
 ### Hey guy, seja bem vindo ao meu GitHub! 👋 👽 🤙                                          
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhsmaciel&layout=compact&theme=synthwave&exclude_repo=jhsmaciel.github.io,Cursos-Alura,Learn-Bootstrap-4,ProjetosWeb)
+
 Sotware Engineer @[Nubank](https://nubank.com.br/). 
 
 Formado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia da Zona Leste(FATEC ZL), <strong>segundo semestre de 2020</strong>
