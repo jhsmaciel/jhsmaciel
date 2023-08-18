@@ -1,7 +1,5 @@
 ### Hey guy, seja bem vindo ao meu GitHub! 👋 👽 🤙                                          
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhsmaciel&layout=compact&theme=synthwave&exclude_repo=jhsmaciel.github.io,Cursos-Alura,Learn-Bootstrap-4,ProjetosWeb)
-
 Sotware Engineer @[Nubank](https://nubank.com.br/). 
 
 Formado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia da Zona Leste(FATEC ZL), <strong>segundo semestre de 2020</strong>
@@ -9,6 +7,8 @@ Formado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia da 
 <strong>NodeJS </strong>|<strong> Typescript </strong>|<strong> React </strong>|<strong> React Native </strong>|<strong> NestJS </strong>|<strong> Kotlin </strong>|<strong> Spring</strong> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-henrique-3a8132125/)](https://www.linkedin.com/in/joaohmaciel/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhsmaciel&layout=compact&theme=synthwave&exclude_repo=jhsmaciel.github.io,Cursos-Alura,Learn-Bootstrap-4,ProjetosWeb)
 
 <!--
 **jhsmaciel/jhsmaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
