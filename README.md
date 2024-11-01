@@ -11,7 +11,7 @@ I’m passionate about technology! 💻 Currently, I am always eager to learn so
 
 - 📍 Location: São Paulo, Brasil
 - 👨‍💻 What I Do: Software Engineer at [@nubank](https://github.com/nubank)
-- 📚 Interests: Little bit of IoT, Mobile and Web development 
+- 📚 Interests: Mobile and Web development | IoT
 - 🎯 Current goal: Develop new skills e.g: improve english comunication
 
 - **Languages/Frameworks**:
