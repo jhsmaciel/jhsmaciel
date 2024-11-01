@@ -14,12 +14,6 @@ I’m passionate about technology! 💻 Currently, I am always eager to learn so
 - 📚 Interests: Little bit of IoT, Mobile and Web development 
 - 🎯 Current goal: Develop new skills e.g: improve english comunication
 
-
-
-
-
-
-
 - **Languages/Frameworks**:
 ![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
@@ -40,8 +34,6 @@ I’m passionate about technology! 💻 Currently, I am always eager to learn so
 - **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 - **Others**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
 ## 🌟 Featured Projects
 
 Here are some of my favorite projects. Take a look! 👇
@@ -49,27 +41,8 @@ Here are some of my favorite projects. Take a look! 👇
 - [📂 Finger choose - Escolha o dedo](https://play.google.com/store/apps/details?id=br.com.jhsmaciel.fingerchoose) - "Finger Selector" is a simple and fun app that randomly selects one finger when you place two or more fingers on the screen
 - [📂 Projects](https://jhsmaciel.github.io/projetos) - Here you can found all my web projects
 
----
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhsmaciel&layout=compact&theme=synthwave&exclude_repo=jhsmaciel.github.io,Cursos-Alura,Learn-Bootstrap-4,ProjetosWeb)
 
----
-
-## 👩‍💻 Recent Contributions
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
-
----
-
-## Let’s Connect! 🤝
-
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yourusername/) or. I'm always open to new collaborations!
-
----
-
-😊 Thanks for visiting my profile, and feel free to explore my repositories!
