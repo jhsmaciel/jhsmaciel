@@ -29,7 +29,7 @@ I’m passionate about technology! 💻 Currently, I am always eager to learn so
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-- **IDE/Editor**: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+- **IDE/Editor**: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) | Intellij | Doom Emacs
 - **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 - **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 - **Others**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -38,9 +38,8 @@ I’m passionate about technology! 💻 Currently, I am always eager to learn so
 
 Here are some of my favorite projects. Take a look! 👇
 
-- [📂 Finger choose - Escolha o dedo](https://play.google.com/store/apps/details?id=br.com.jhsmaciel.fingerchoose) - "Finger Selector" is a simple and fun app that randomly selects one finger when you place two or more fingers on the screen
-- [📂 Projects](https://jhsmaciel.github.io/projetos) - Here you can found all my web projects
-
+- [📂 Finger choose - Escolha o dedo](https://play.google.com/store/apps/details?id=br.com.jhsmaciel.fingerchoose) - is a simple and fun app that randomly selects one finger when you place two or more fingers on the screen
+- [📂 Projects](https://jhsmaciel.github.io/projetos) - here you can found all my web projects
 
 ## 📈 GitHub Stats
 
