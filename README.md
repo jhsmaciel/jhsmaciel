@@ -38,7 +38,7 @@ I’m passionate about technology! 💻 Currently, I am always eager to learn so
 
 Here are some of my favorite projects. Take a look! 👇
 
-- [📂 Finger choose - Escolha o dedo](https://play.google.com/store/apps/details?id=br.com.jhsmaciel.fingerchoose) - is a simple and fun app that randomly selects one finger when you place two or more fingers on the screen
+- [📂 Seletor de dedo Finger Picker](https://play.google.com/store/apps/details?id=br.com.jhsmaciel.fingerchoose) - is a simple and fun app that randomly selects one finger when you place two or more fingers on the screen
 - [📂 Projects](https://jhsmaciel.github.io/projetos) - here you can found all my web projects
 
 ## 📈 GitHub Stats
